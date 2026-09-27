@@ -5,6 +5,10 @@ No salary, no degree beyond the Diploma, no certifications, no metrics that are 
 
 Placeholders: `{Company}`, `{Role}`, `{JobRef}`.
 
+**Headline achievement (confirmed by Abdulrhman, 2026-09-27; use it in every message and in the CV's HudHud section):**
+
+> Lead a 56-person, multi-tier nationwide field operations team (data collectors, city supervisors, regional managers) that has collected and validated 1M+ POIs across Saudi Arabia, owning coverage planning, work allocation, execution, and data quality.
+
 ---
 
 ## MSG-OPS — Operations (EN)
